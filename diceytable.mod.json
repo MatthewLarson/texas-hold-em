@@ -2,7 +2,7 @@
   "schemaVersion": "1.0",
   "id": "texas-hold-em",
   "name": "Texas Hold'em",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "game-pack",
   "entry": {
     "setup": "setup.json",
@@ -12,7 +12,10 @@
     "media/cover-thumb.webp",
     "media/cover.webp",
     "media/screenshot-0.webp",
-    "media/screenshot-1.webp"
+    "media/screenshot-1.webp",
+    "media/screenshot-2.webp",
+    "media/screenshot-3.webp",
+    "media/screenshot-4.webp"
   ],
   "compatibility": {
     "engine": ">=0.1 <1.0"
@@ -147,20 +150,6 @@
       "locked": true
     },
     {
-      "id": "credit-4bab4017-a538-4096-ad1d-1f8ea547ac20",
-      "paths": [
-        "media/cover-thumb.webp",
-        "media/cover.webp"
-      ],
-      "origin": "own-work",
-      "recordedAt": "2026-10-01T17:18:08.604Z",
-      "attestation": {
-        "termsVersion": "2026-09-07.1",
-        "acceptedAt": "2026-10-01T17:18:08.604Z",
-        "signedName": "Matt Larson"
-      }
-    },
-    {
       "id": "credit-c94c6cb0-efb7-419e-bf3d-22041d8dfaa5",
       "paths": [
         "media/screenshot-0.webp",
@@ -173,6 +162,35 @@
         "acceptedAt": "2026-10-01T17:18:44.127Z",
         "signedName": "Matt Larson"
       }
+    },
+    {
+      "id": "credit-fca43c3a-ab11-4000-976a-2b1c889c8583",
+      "paths": [
+        "media/cover-thumb.webp",
+        "media/cover.webp"
+      ],
+      "origin": "own-work",
+      "recordedAt": "2026-10-01T19:20:56.566Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-10-01T19:20:56.566Z",
+        "signedName": "Matt Larson"
+      }
+    },
+    {
+      "id": "credit-d2c960e2-9570-41cd-a4cb-39db1959d852",
+      "paths": [
+        "media/screenshot-2.webp",
+        "media/screenshot-3.webp",
+        "media/screenshot-4.webp"
+      ],
+      "origin": "own-work",
+      "recordedAt": "2026-10-01T19:21:14.933Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-10-01T19:21:14.933Z",
+        "signedName": "Matt Larson"
+      }
     }
   ],
   "slug": "texas-hold-em",
@@ -182,13 +200,52 @@
   "coverImage": "media/cover.webp",
   "screenshots": [
     {
+      "path": "media/screenshot-2.webp",
+      "crop": {
+        "x": 0,
+        "y": 0.0002656748140275611,
+        "w": 1,
+        "h": 0.9994686503719449
+      },
+      "title": "Texas Hold'em - Classic Poker. High-stakes drama.",
+      "alt": "Texas Hold'em - Classic Poker. High-stakes drama.",
+      "kind": "marketing"
+    },
+    {
+      "path": "media/screenshot-3.webp",
+      "crop": {
+        "x": 0,
+        "y": 0.0002656748140275611,
+        "w": 1,
+        "h": 0.9994686503719449
+      },
+      "title": "Texas Hold'em - Bluff. Bet. All in.",
+      "alt": "Texas Hold'em - Bluff. Bet. All in.",
+      "kind": "marketing"
+    },
+    {
+      "path": "media/screenshot-4.webp",
+      "crop": {
+        "x": 0,
+        "y": 0.0002656748140275611,
+        "w": 1,
+        "h": 0.9994686503719449
+      },
+      "title": "Texas Hold'em - Every Bet Changes Everything",
+      "alt": "Texas Hold'em - Every Bet Changes Everything",
+      "kind": "marketing"
+    },
+    {
       "path": "media/screenshot-0.webp",
       "crop": {
         "x": 0.05950705728348918,
         "y": 0,
         "w": 0.8828197945845003,
         "h": 1
-      }
+      },
+      "title": "Texas Hold'em - Table",
+      "alt": "Texas Hold'em - Table",
+      "kind": "gameplay"
     },
     {
       "path": "media/screenshot-1.webp",
@@ -197,7 +254,10 @@
         "y": 0.032323109019886366,
         "w": 0.7727785291099474,
         "h": 0.9562059002936281
-      }
+      },
+      "title": "Texas Hold'em - Close up",
+      "alt": "Texas Hold'em - Close up",
+      "kind": "gameplay"
     }
   ],
   "rules": [
