@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "rendererVersion": 1,
+  "entries": {
+    "@materials/mat-2d3be2ae-ef80-4119-8b30-d5f7320cb4b9": {
+      "inputHash": "52fdf8f3deace5f2",
+      "file": "thumbnails/@materials/mat-2d3be2ae-ef80-4119-8b30-d5f7320cb4b9.webp",
+      "width": 256,
+      "height": 256
+    },
+    "media/cover-thumb.webp": {
+      "inputHash": "8e0dbcd506aaac20",
+      "file": "thumbnails/media/cover-thumb.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "media/cover.webp": {
+      "inputHash": "5aa742b64e16ca77",
+      "file": "thumbnails/media/cover.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "media/screenshot-0.webp": {
+      "inputHash": "726f805b632e0e93",
+      "file": "thumbnails/media/screenshot-0.webp.webp",
+      "width": 256,
+      "height": 144
+    },
+    "media/screenshot-1.webp": {
+      "inputHash": "9c6215e9e9d3fe0f",
+      "file": "thumbnails/media/screenshot-1.webp.webp",
+      "width": 256,
+      "height": 144
+    }
+  }
+}

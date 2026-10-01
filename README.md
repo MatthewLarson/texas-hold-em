@@ -1,8 +1,12 @@
 # Texas Hold'em
 
-**Texas Hold'em** is a game for [DiceyTable](https://diceytable.com) — a free physics tabletop you play in your browser with friends, with no download required.
+**Texas Hold'em** is a Poker game for [DiceyTable](https://diceytable.com) — a free physics tabletop you play in your browser with friends, with no download required.
 
 **[Play Texas Hold'em on DiceyTable](https://diceytable.com/games/texas-hold-em)**
+
+---
+
+Texas Hold'em
 
 ---
 
