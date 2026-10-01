@@ -3,7 +3,7 @@
   "rendererVersion": 1,
   "entries": {
     "@materials/mat-1a21b10d-f892-407b-a388-e6c848282f73": {
-      "inputHash": "74217be03d335c4f",
+      "inputHash": "a531fd9a156a4ae8",
       "file": "thumbnails/@materials/mat-1a21b10d-f892-407b-a388-e6c848282f73.webp",
       "width": 256,
       "height": 256
@@ -15,25 +15,25 @@
       "height": 256
     },
     "@materials/mat-4b318db8-bbd7-4e21-a473-bbd344e3c0d3": {
-      "inputHash": "22a731f535c014ed",
+      "inputHash": "9465c549ce46fea6",
       "file": "thumbnails/@materials/mat-4b318db8-bbd7-4e21-a473-bbd344e3c0d3.webp",
       "width": 256,
       "height": 256
     },
     "@materials/mat-55db87f3-4816-48e4-b706-a98e324362d9": {
-      "inputHash": "55763e6c1e20cde8",
+      "inputHash": "217e9df908c1cbbc",
       "file": "thumbnails/@materials/mat-55db87f3-4816-48e4-b706-a98e324362d9.webp",
       "width": 256,
       "height": 256
     },
     "@materials/mat-d8c578ea-1574-4ba8-9a5a-7dcc83ddcc73": {
-      "inputHash": "f958301ddf06a4b2",
+      "inputHash": "57a079fb5d03c8f1",
       "file": "thumbnails/@materials/mat-d8c578ea-1574-4ba8-9a5a-7dcc83ddcc73.webp",
       "width": 256,
       "height": 256
     },
     "@materials/mat-ec32c6f2-095d-41c5-abf3-11ac4bbd1143": {
-      "inputHash": "50c2168dd8c3b325",
+      "inputHash": "0918b38cce9a2bd7",
       "file": "thumbnails/@materials/mat-ec32c6f2-095d-41c5-abf3-11ac4bbd1143.webp",
       "width": 256,
       "height": 256
@@ -57,37 +57,31 @@
       "height": 256
     },
     "@prefabs/chip-10": {
-      "inputHash": "a362616832b621b8",
+      "inputHash": "adb5e71a2e0f0664",
       "file": "thumbnails/@prefabs/chip-10.webp",
       "width": 256,
       "height": 256
     },
-    "@prefabs/chip-10-2": {
-      "inputHash": "a362616832b621b8",
-      "file": "thumbnails/@prefabs/chip-10-2.webp",
-      "width": 256,
-      "height": 256
-    },
     "@prefabs/chip-100": {
-      "inputHash": "01ea9dc18f892dac",
+      "inputHash": "3eee93b9b744c22e",
       "file": "thumbnails/@prefabs/chip-100.webp",
       "width": 256,
       "height": 256
     },
     "@prefabs/chip-1000": {
-      "inputHash": "bae9af22263eb258",
+      "inputHash": "dd1156fe3805f65f",
       "file": "thumbnails/@prefabs/chip-1000.webp",
       "width": 256,
       "height": 256
     },
     "@prefabs/chip-50": {
-      "inputHash": "0d5f516c44c5d34f",
+      "inputHash": "142e736987f42ec8",
       "file": "thumbnails/@prefabs/chip-50.webp",
       "width": 256,
       "height": 256
     },
     "@prefabs/chip-500": {
-      "inputHash": "675c3612c8105cff",
+      "inputHash": "2b361a455bca5538",
       "file": "thumbnails/@prefabs/chip-500.webp",
       "width": 256,
       "height": 256
@@ -195,31 +189,31 @@
       "height": 144
     },
     "models/chip-10.glb": {
-      "inputHash": "9722062adfd28eb8",
+      "inputHash": "cc4343255a64a7b2",
       "file": "thumbnails/models/chip-10.glb.webp",
       "width": 256,
       "height": 256
     },
     "models/chip-100.glb": {
-      "inputHash": "f679148c2dd6f0d9",
+      "inputHash": "3bd845b07f309187",
       "file": "thumbnails/models/chip-100.glb.webp",
       "width": 256,
       "height": 256
     },
     "models/chip-1000.glb": {
-      "inputHash": "da0d62a37d4aeb38",
+      "inputHash": "159cbf2c5603612c",
       "file": "thumbnails/models/chip-1000.glb.webp",
       "width": 256,
       "height": 256
     },
     "models/chip-50.glb": {
-      "inputHash": "1dee3e378dabc2be",
+      "inputHash": "9a7f2647bacff461",
       "file": "thumbnails/models/chip-50.glb.webp",
       "width": 256,
       "height": 256
     },
     "models/chip-500.glb": {
-      "inputHash": "c5fdbd8b7a205f4f",
+      "inputHash": "3270c1ddfadbbb91",
       "file": "thumbnails/models/chip-500.glb.webp",
       "width": 256,
       "height": 256
