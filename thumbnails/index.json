@@ -38,6 +38,24 @@
       "width": 256,
       "height": 256
     },
+    "@prefabs/all-in-button": {
+      "inputHash": "1d9affb6f8f196cc",
+      "file": "thumbnails/@prefabs/all-in-button.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@prefabs/bet-button": {
+      "inputHash": "1d9affb6f8f196cc",
+      "file": "thumbnails/@prefabs/bet-button.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@prefabs/call-button": {
+      "inputHash": "1d9affb6f8f196cc",
+      "file": "thumbnails/@prefabs/call-button.webp",
+      "width": 256,
+      "height": 256
+    },
     "@prefabs/chip-10": {
       "inputHash": "a362616832b621b8",
       "file": "thumbnails/@prefabs/chip-10.webp",
@@ -71,6 +89,48 @@
     "@prefabs/chip-500": {
       "inputHash": "675c3612c8105cff",
       "file": "thumbnails/@prefabs/chip-500.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@prefabs/dealer-marker": {
+      "inputHash": "1d9affb6f8f196cc",
+      "file": "thumbnails/@prefabs/dealer-marker.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@prefabs/fold-button": {
+      "inputHash": "1d9affb6f8f196cc",
+      "file": "thumbnails/@prefabs/fold-button.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@prefabs/minus-button": {
+      "inputHash": "1d9affb6f8f196cc",
+      "file": "thumbnails/@prefabs/minus-button.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@prefabs/plus-button": {
+      "inputHash": "1d9affb6f8f196cc",
+      "file": "thumbnails/@prefabs/plus-button.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@prefabs/poker-deck": {
+      "inputHash": "68dc31bd5f0d8fe9",
+      "file": "thumbnails/@prefabs/poker-deck.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@prefabs/start-button": {
+      "inputHash": "1d9affb6f8f196cc",
+      "file": "thumbnails/@prefabs/start-button.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@prefabs/table-button": {
+      "inputHash": "1d9affb6f8f196cc",
+      "file": "thumbnails/@prefabs/table-button.webp",
       "width": 256,
       "height": 256
     },
