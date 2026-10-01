@@ -1,0 +1,353 @@
+{
+  "schemaVersion": 2,
+  "sceneId": "texas-hold-em",
+  "name": "Texas Hold'em",
+  "environment": {
+    "tableSurfaceColor": "#8b5e34",
+    "tableSurfaceTextureAssetId": null,
+    "ambientColor": "#b8bdc2",
+    "fogEnabled": false,
+    "fogColor": "#000000",
+    "fogDensity": 0,
+    "skyboxAssetId": null,
+    "skyboxRotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "skyboxSpin": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
+  },
+  "objects": [],
+  "zones": [],
+  "snapPoints": [],
+  "seatZones": [
+    {
+      "seat": "red",
+      "zones": [
+        {
+          "id": "seat-zone-red-0",
+          "position": {
+            "x": 0,
+            "y": 0.05,
+            "z": 1.14
+          },
+          "size": {
+            "x": 1.328,
+            "z": 0.5
+          },
+          "rotationY": 180
+        }
+      ],
+      "label": {
+        "position": {
+          "x": 0,
+          "y": 0.05,
+          "z": 1.59
+        },
+        "size": {
+          "width": 1.2,
+          "height": 0.35
+        },
+        "rotationY": 180,
+        "fontSize": 0.3
+      }
+    },
+    {
+      "seat": "blue",
+      "zones": [
+        {
+          "id": "seat-zone-blue-0",
+          "position": {
+            "x": -1.428,
+            "y": 0.05,
+            "z": 1.14
+          },
+          "size": {
+            "x": 1.328,
+            "z": 0.5
+          },
+          "rotationY": 180
+        }
+      ],
+      "label": {
+        "position": {
+          "x": -1.428,
+          "y": 0.05,
+          "z": 1.59
+        },
+        "size": {
+          "width": 1.2,
+          "height": 0.35
+        },
+        "rotationY": 180,
+        "fontSize": 0.3
+      }
+    },
+    {
+      "seat": "green",
+      "zones": [
+        {
+          "id": "seat-zone-green-0",
+          "position": {
+            "x": -2.43,
+            "y": 0.05,
+            "z": 0.714
+          },
+          "size": {
+            "x": 1.328,
+            "z": 0.5
+          },
+          "rotationY": 90
+        }
+      ],
+      "label": {
+        "position": {
+          "x": -2.88,
+          "y": 0.05,
+          "z": 0.714
+        },
+        "size": {
+          "width": 1.2,
+          "height": 0.35
+        },
+        "rotationY": 90,
+        "fontSize": 0.3
+      }
+    },
+    {
+      "seat": "yellow",
+      "zones": [
+        {
+          "id": "seat-zone-yellow-0",
+          "position": {
+            "x": -2.43,
+            "y": 0.05,
+            "z": -0.714
+          },
+          "size": {
+            "x": 1.328,
+            "z": 0.5
+          },
+          "rotationY": 90
+        }
+      ],
+      "label": {
+        "position": {
+          "x": -2.88,
+          "y": 0.05,
+          "z": -0.714
+        },
+        "size": {
+          "width": 1.2,
+          "height": 0.35
+        },
+        "rotationY": 90,
+        "fontSize": 0.3
+      }
+    },
+    {
+      "seat": "purple",
+      "zones": [
+        {
+          "id": "seat-zone-purple-0",
+          "position": {
+            "x": -1.428,
+            "y": 0.05,
+            "z": -1.14
+          },
+          "size": {
+            "x": 1.328,
+            "z": 0.5
+          },
+          "rotationY": 0
+        }
+      ],
+      "label": {
+        "position": {
+          "x": -1.428,
+          "y": 0.05,
+          "z": -1.59
+        },
+        "size": {
+          "width": 1.2,
+          "height": 0.35
+        },
+        "rotationY": 0,
+        "fontSize": 0.3
+      }
+    },
+    {
+      "seat": "orange",
+      "zones": [
+        {
+          "id": "seat-zone-orange-0",
+          "position": {
+            "x": 0,
+            "y": 0.05,
+            "z": -1.14
+          },
+          "size": {
+            "x": 1.328,
+            "z": 0.5
+          },
+          "rotationY": 0
+        }
+      ],
+      "label": {
+        "position": {
+          "x": 0,
+          "y": 0.05,
+          "z": -1.59
+        },
+        "size": {
+          "width": 1.2,
+          "height": 0.35
+        },
+        "rotationY": 0,
+        "fontSize": 0.3
+      }
+    },
+    {
+      "seat": "pink",
+      "zones": [
+        {
+          "id": "seat-zone-pink-0",
+          "position": {
+            "x": 1.428,
+            "y": 0.05,
+            "z": -1.14
+          },
+          "size": {
+            "x": 1.328,
+            "z": 0.5
+          },
+          "rotationY": 0
+        }
+      ],
+      "label": {
+        "position": {
+          "x": 1.428,
+          "y": 0.05,
+          "z": -1.59
+        },
+        "size": {
+          "width": 1.2,
+          "height": 0.35
+        },
+        "rotationY": 0,
+        "fontSize": 0.3
+      }
+    },
+    {
+      "seat": "cyan",
+      "zones": [
+        {
+          "id": "seat-zone-cyan-0",
+          "position": {
+            "x": 2.43,
+            "y": 0.05,
+            "z": -0.714
+          },
+          "size": {
+            "x": 1.328,
+            "z": 0.5
+          },
+          "rotationY": 270
+        }
+      ],
+      "label": {
+        "position": {
+          "x": 2.88,
+          "y": 0.05,
+          "z": -0.714
+        },
+        "size": {
+          "width": 1.2,
+          "height": 0.35
+        },
+        "rotationY": 270,
+        "fontSize": 0.3
+      }
+    },
+    {
+      "seat": "white",
+      "zones": [
+        {
+          "id": "seat-zone-white-0",
+          "position": {
+            "x": 2.43,
+            "y": 0.05,
+            "z": 0.714
+          },
+          "size": {
+            "x": 1.328,
+            "z": 0.5
+          },
+          "rotationY": 270
+        }
+      ],
+      "label": {
+        "position": {
+          "x": 2.88,
+          "y": 0.05,
+          "z": 0.714
+        },
+        "size": {
+          "width": 1.2,
+          "height": 0.35
+        },
+        "rotationY": 270,
+        "fontSize": 0.3
+      }
+    },
+    {
+      "seat": "brown",
+      "zones": [
+        {
+          "id": "seat-zone-brown-0",
+          "position": {
+            "x": 1.428,
+            "y": 0.05,
+            "z": 1.14
+          },
+          "size": {
+            "x": 1.328,
+            "z": 0.5
+          },
+          "rotationY": 180
+        }
+      ],
+      "label": {
+        "position": {
+          "x": 1.428,
+          "y": 0.05,
+          "z": 1.59
+        },
+        "size": {
+          "width": 1.2,
+          "height": 0.35
+        },
+        "rotationY": 180,
+        "fontSize": 0.3
+      }
+    }
+  ],
+  "packRefs": [
+    {
+      "role": "table",
+      "packId": "poker-table",
+      "version": "1.0.0",
+      "commitSha": "1a12c32ff8e76213fb3db8e1f1972f2692902185"
+    },
+    {
+      "role": "room",
+      "packId": "Casino",
+      "version": "1.0.0",
+      "commitSha": "4308d4068e74d51215952994386d9e5ee53fe025"
+    }
+  ]
+}
