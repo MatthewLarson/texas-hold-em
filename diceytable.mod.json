@@ -2,7 +2,7 @@
   "schemaVersion": "1.0",
   "id": "texas-hold-em",
   "name": "Texas Hold'em",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "type": "game-pack",
   "entry": {
     "setup": "setup.json",
