@@ -2,9 +2,45 @@
   "version": 1,
   "rendererVersion": 1,
   "entries": {
+    "@materials/mat-1a21b10d-f892-407b-a388-e6c848282f73": {
+      "inputHash": "74217be03d335c4f",
+      "file": "thumbnails/@materials/mat-1a21b10d-f892-407b-a388-e6c848282f73.webp",
+      "width": 256,
+      "height": 256
+    },
     "@materials/mat-2d3be2ae-ef80-4119-8b30-d5f7320cb4b9": {
-      "inputHash": "52fdf8f3deace5f2",
+      "inputHash": "55763e6c1e20cde8",
       "file": "thumbnails/@materials/mat-2d3be2ae-ef80-4119-8b30-d5f7320cb4b9.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-4b318db8-bbd7-4e21-a473-bbd344e3c0d3": {
+      "inputHash": "22a731f535c014ed",
+      "file": "thumbnails/@materials/mat-4b318db8-bbd7-4e21-a473-bbd344e3c0d3.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-55db87f3-4816-48e4-b706-a98e324362d9": {
+      "inputHash": "55763e6c1e20cde8",
+      "file": "thumbnails/@materials/mat-55db87f3-4816-48e4-b706-a98e324362d9.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-d8c578ea-1574-4ba8-9a5a-7dcc83ddcc73": {
+      "inputHash": "f958301ddf06a4b2",
+      "file": "thumbnails/@materials/mat-d8c578ea-1574-4ba8-9a5a-7dcc83ddcc73.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-ec32c6f2-095d-41c5-abf3-11ac4bbd1143": {
+      "inputHash": "50c2168dd8c3b325",
+      "file": "thumbnails/@materials/mat-ec32c6f2-095d-41c5-abf3-11ac4bbd1143.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@prefabs/chip-10-2": {
+      "inputHash": "a362616832b621b8",
+      "file": "thumbnails/@prefabs/chip-10-2.webp",
       "width": 256,
       "height": 256
     },
@@ -49,6 +85,84 @@
       "file": "thumbnails/media/screenshot-4.webp.webp",
       "width": 256,
       "height": 144
+    },
+    "models/chip-10.glb": {
+      "inputHash": "9722062adfd28eb8",
+      "file": "thumbnails/models/chip-10.glb.webp",
+      "width": 256,
+      "height": 256
+    },
+    "models/chip-100.glb": {
+      "inputHash": "f679148c2dd6f0d9",
+      "file": "thumbnails/models/chip-100.glb.webp",
+      "width": 256,
+      "height": 256
+    },
+    "models/chip-1000.glb": {
+      "inputHash": "da0d62a37d4aeb38",
+      "file": "thumbnails/models/chip-1000.glb.webp",
+      "width": 256,
+      "height": 256
+    },
+    "models/chip-50.glb": {
+      "inputHash": "1dee3e378dabc2be",
+      "file": "thumbnails/models/chip-50.glb.webp",
+      "width": 256,
+      "height": 256
+    },
+    "models/chip-500.glb": {
+      "inputHash": "c5fdbd8b7a205f4f",
+      "file": "thumbnails/models/chip-500.glb.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/chip-10-basecolor-2e92a02b.png": {
+      "inputHash": "12a8b2072dc6cd17",
+      "file": "thumbnails/textures/chip-10-basecolor-2e92a02b.png.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/chip-100-basecolor-1a97a069.png": {
+      "inputHash": "b8469ab874f244d1",
+      "file": "thumbnails/textures/chip-100-basecolor-1a97a069.png.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/chip-100-mr-53d57459.png": {
+      "inputHash": "150271c57054a2e9",
+      "file": "thumbnails/textures/chip-100-mr-53d57459.png.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/chip-1000-basecolor-e031d902.png": {
+      "inputHash": "73f95db24f41347d",
+      "file": "thumbnails/textures/chip-1000-basecolor-e031d902.png.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/chip-1000-mr-6025134e.png": {
+      "inputHash": "a4faf5a137044183",
+      "file": "thumbnails/textures/chip-1000-mr-6025134e.png.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/chip-1000-normal-45fa3ddc.png": {
+      "inputHash": "224229025b2a1bd1",
+      "file": "thumbnails/textures/chip-1000-normal-45fa3ddc.png.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/chip-50-basecolor-811cbfa7.png": {
+      "inputHash": "7338e5d3904e46e6",
+      "file": "thumbnails/textures/chip-50-basecolor-811cbfa7.png.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/chip-500-basecolor-dfb21af9.png": {
+      "inputHash": "89d66b87cf3e7a82",
+      "file": "thumbnails/textures/chip-500-basecolor-dfb21af9.png.webp",
+      "width": 256,
+      "height": 256
     }
   }
 }

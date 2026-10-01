@@ -2,7 +2,7 @@
   "schemaVersion": "1.0",
   "id": "texas-hold-em",
   "name": "Texas Hold'em",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "type": "game-pack",
   "entry": {
     "setup": "setup.json",
@@ -15,7 +15,25 @@
     "media/screenshot-1.webp",
     "media/screenshot-2.webp",
     "media/screenshot-3.webp",
-    "media/screenshot-4.webp"
+    "media/screenshot-4.webp",
+    "models/chip-10.glb",
+    "models/chip-10.meta.json",
+    "models/chip-100.glb",
+    "models/chip-100.meta.json",
+    "models/chip-1000.glb",
+    "models/chip-1000.meta.json",
+    "models/chip-50.glb",
+    "models/chip-50.meta.json",
+    "models/chip-500.glb",
+    "models/chip-500.meta.json",
+    "textures/chip-10-basecolor-2e92a02b.png",
+    "textures/chip-100-basecolor-1a97a069.png",
+    "textures/chip-100-mr-53d57459.png",
+    "textures/chip-1000-basecolor-e031d902.png",
+    "textures/chip-1000-mr-6025134e.png",
+    "textures/chip-1000-normal-45fa3ddc.png",
+    "textures/chip-50-basecolor-811cbfa7.png",
+    "textures/chip-500-basecolor-dfb21af9.png"
   ],
   "compatibility": {
     "engine": ">=0.1 <1.0"
@@ -64,24 +82,6 @@
       "locked": true
     },
     {
-      "id": "link-a7a7af0e",
-      "paths": [
-        "models/chip-500.glb",
-        "models/chip-500.meta.json"
-      ],
-      "origin": "own-work",
-      "title": "DiceyTable procedural standard objects",
-      "creator": "DiceyTable",
-      "notes": "Geometry and textures generated in-repo. Checkers and go stones sample Poly Haven CC0 plates (oak_veneer_01, white_plaster_02, seaside_rock), which carry no obligation.",
-      "recordedAt": "2026-10-01T14:04:20.921Z",
-      "source": {
-        "type": "preset",
-        "presetKind": "model",
-        "presetId": "chip-500"
-      },
-      "locked": true
-    },
-    {
       "id": "link-2215536c",
       "paths": [
         "links/materials/mat-2d3be2ae-ef80-4119-8b30-d5f7320cb4b9.link.json"
@@ -95,57 +95,6 @@
         "type": "preset",
         "presetKind": "material",
         "presetId": "builtin:model/chip-500/chip-500"
-      },
-      "locked": true
-    },
-    {
-      "id": "link-83baa2d5",
-      "paths": [
-        "textures/chip-500-basecolor-dfb21af9.png"
-      ],
-      "origin": "own-work",
-      "title": "DiceyTable procedural standard objects",
-      "creator": "DiceyTable",
-      "notes": "Geometry and textures generated in-repo. Checkers and go stones sample Poly Haven CC0 plates (oak_veneer_01, white_plaster_02, seaside_rock), which carry no obligation.",
-      "recordedAt": "2026-10-01T14:04:20.921Z",
-      "source": {
-        "type": "preset",
-        "presetKind": "texture",
-        "presetId": "builtin-tex:model/chip-500/diffuse"
-      },
-      "locked": true
-    },
-    {
-      "id": "link-afad62c1",
-      "paths": [
-        "textures/chip-1000-mr-6025134e.png"
-      ],
-      "origin": "own-work",
-      "title": "DiceyTable procedural standard objects",
-      "creator": "DiceyTable",
-      "notes": "Geometry and textures generated in-repo. Checkers and go stones sample Poly Haven CC0 plates (oak_veneer_01, white_plaster_02, seaside_rock), which carry no obligation.",
-      "recordedAt": "2026-10-01T14:04:20.921Z",
-      "source": {
-        "type": "preset",
-        "presetKind": "texture",
-        "presetId": "builtin-tex:model/chips/roughness-chip-1000"
-      },
-      "locked": true
-    },
-    {
-      "id": "link-aff513b9",
-      "paths": [
-        "textures/chip-1000-normal-45fa3ddc.png"
-      ],
-      "origin": "own-work",
-      "title": "DiceyTable procedural standard objects",
-      "creator": "DiceyTable",
-      "notes": "Geometry and textures generated in-repo. Checkers and go stones sample Poly Haven CC0 plates (oak_veneer_01, white_plaster_02, seaside_rock), which carry no obligation.",
-      "recordedAt": "2026-10-01T14:04:20.921Z",
-      "source": {
-        "type": "preset",
-        "presetKind": "texture",
-        "presetId": "builtin-tex:model/chips/normal"
       },
       "locked": true
     },
@@ -191,6 +140,317 @@
         "acceptedAt": "2026-10-01T19:21:14.933Z",
         "signedName": "Matt Larson"
       }
+    },
+    {
+      "id": "link-3e115926",
+      "paths": [
+        "models/chip-10.glb",
+        "models/chip-10.meta.json"
+      ],
+      "origin": "own-work",
+      "title": "DiceyTable procedural standard objects",
+      "creator": "DiceyTable",
+      "notes": "Geometry and textures generated in-repo. Checkers and go stones sample Poly Haven CC0 plates (oak_veneer_01, white_plaster_02, seaside_rock), which carry no obligation.",
+      "recordedAt": "2026-10-01T22:14:35.633Z",
+      "source": {
+        "type": "preset",
+        "presetKind": "model",
+        "presetId": "chip-10"
+      },
+      "locked": true
+    },
+    {
+      "id": "link-4b74758b",
+      "paths": [
+        "links/materials/mat-4b318db8-bbd7-4e21-a473-bbd344e3c0d3.link.json"
+      ],
+      "origin": "own-work",
+      "title": "DiceyTable procedural standard objects",
+      "creator": "DiceyTable",
+      "notes": "Geometry and textures generated in-repo. Checkers and go stones sample Poly Haven CC0 plates (oak_veneer_01, white_plaster_02, seaside_rock), which carry no obligation.",
+      "recordedAt": "2026-10-01T22:14:35.633Z",
+      "source": {
+        "type": "preset",
+        "presetKind": "material",
+        "presetId": "builtin:model/chip-10/chip-10"
+      },
+      "locked": true
+    },
+    {
+      "id": "link-9b024e5d",
+      "paths": [
+        "textures/chip-10-basecolor-2e92a02b.png"
+      ],
+      "origin": "own-work",
+      "title": "DiceyTable procedural standard objects",
+      "creator": "DiceyTable",
+      "notes": "Geometry and textures generated in-repo. Checkers and go stones sample Poly Haven CC0 plates (oak_veneer_01, white_plaster_02, seaside_rock), which carry no obligation.",
+      "recordedAt": "2026-10-01T22:14:35.633Z",
+      "source": {
+        "type": "preset",
+        "presetKind": "texture",
+        "presetId": "builtin-tex:model/chip-10/diffuse"
+      },
+      "locked": true
+    },
+    {
+      "id": "link-d1d5fed3",
+      "paths": [
+        "textures/chip-100-mr-53d57459.png"
+      ],
+      "origin": "own-work",
+      "title": "DiceyTable procedural standard objects",
+      "creator": "DiceyTable",
+      "notes": "Geometry and textures generated in-repo. Checkers and go stones sample Poly Haven CC0 plates (oak_veneer_01, white_plaster_02, seaside_rock), which carry no obligation.",
+      "recordedAt": "2026-10-01T22:14:35.633Z",
+      "source": {
+        "type": "preset",
+        "presetKind": "texture",
+        "presetId": "builtin-tex:model/chips/roughness-chip-100"
+      },
+      "locked": true
+    },
+    {
+      "id": "link-aff513b9-2cb3af6f",
+      "paths": [
+        "textures/chip-1000-normal-45fa3ddc.png"
+      ],
+      "origin": "own-work",
+      "title": "DiceyTable procedural standard objects",
+      "creator": "DiceyTable",
+      "notes": "Geometry and textures generated in-repo. Checkers and go stones sample Poly Haven CC0 plates (oak_veneer_01, white_plaster_02, seaside_rock), which carry no obligation.",
+      "recordedAt": "2026-10-01T22:14:35.633Z",
+      "source": {
+        "type": "preset",
+        "presetKind": "texture",
+        "presetId": "builtin-tex:model/chips/normal"
+      },
+      "locked": true
+    },
+    {
+      "id": "link-1c9a5c76",
+      "paths": [
+        "models/chip-50.glb",
+        "models/chip-50.meta.json"
+      ],
+      "origin": "own-work",
+      "title": "DiceyTable procedural standard objects",
+      "creator": "DiceyTable",
+      "notes": "Geometry and textures generated in-repo. Checkers and go stones sample Poly Haven CC0 plates (oak_veneer_01, white_plaster_02, seaside_rock), which carry no obligation.",
+      "recordedAt": "2026-10-01T22:14:42.113Z",
+      "source": {
+        "type": "preset",
+        "presetKind": "model",
+        "presetId": "chip-50"
+      },
+      "locked": true
+    },
+    {
+      "id": "link-58631925",
+      "paths": [
+        "links/materials/mat-d8c578ea-1574-4ba8-9a5a-7dcc83ddcc73.link.json"
+      ],
+      "origin": "own-work",
+      "title": "DiceyTable procedural standard objects",
+      "creator": "DiceyTable",
+      "notes": "Geometry and textures generated in-repo. Checkers and go stones sample Poly Haven CC0 plates (oak_veneer_01, white_plaster_02, seaside_rock), which carry no obligation.",
+      "recordedAt": "2026-10-01T22:14:42.113Z",
+      "source": {
+        "type": "preset",
+        "presetKind": "material",
+        "presetId": "builtin:model/chip-50/chip-50"
+      },
+      "locked": true
+    },
+    {
+      "id": "link-2fc1c7c5",
+      "paths": [
+        "textures/chip-50-basecolor-811cbfa7.png"
+      ],
+      "origin": "own-work",
+      "title": "DiceyTable procedural standard objects",
+      "creator": "DiceyTable",
+      "notes": "Geometry and textures generated in-repo. Checkers and go stones sample Poly Haven CC0 plates (oak_veneer_01, white_plaster_02, seaside_rock), which carry no obligation.",
+      "recordedAt": "2026-10-01T22:14:42.113Z",
+      "source": {
+        "type": "preset",
+        "presetKind": "texture",
+        "presetId": "builtin-tex:model/chip-50/diffuse"
+      },
+      "locked": true
+    },
+    {
+      "id": "link-3147c236",
+      "paths": [
+        "models/chip-100.glb",
+        "models/chip-100.meta.json"
+      ],
+      "origin": "own-work",
+      "title": "DiceyTable procedural standard objects",
+      "creator": "DiceyTable",
+      "notes": "Geometry and textures generated in-repo. Checkers and go stones sample Poly Haven CC0 plates (oak_veneer_01, white_plaster_02, seaside_rock), which carry no obligation.",
+      "recordedAt": "2026-10-01T22:14:44.918Z",
+      "source": {
+        "type": "preset",
+        "presetKind": "model",
+        "presetId": "chip-100"
+      },
+      "locked": true
+    },
+    {
+      "id": "link-5d1994ae",
+      "paths": [
+        "links/materials/mat-ec32c6f2-095d-41c5-abf3-11ac4bbd1143.link.json"
+      ],
+      "origin": "own-work",
+      "title": "DiceyTable procedural standard objects",
+      "creator": "DiceyTable",
+      "notes": "Geometry and textures generated in-repo. Checkers and go stones sample Poly Haven CC0 plates (oak_veneer_01, white_plaster_02, seaside_rock), which carry no obligation.",
+      "recordedAt": "2026-10-01T22:14:44.918Z",
+      "source": {
+        "type": "preset",
+        "presetKind": "material",
+        "presetId": "builtin:model/chip-100/chip-100"
+      },
+      "locked": true
+    },
+    {
+      "id": "link-bb5a78fe",
+      "paths": [
+        "textures/chip-100-basecolor-1a97a069.png"
+      ],
+      "origin": "own-work",
+      "title": "DiceyTable procedural standard objects",
+      "creator": "DiceyTable",
+      "notes": "Geometry and textures generated in-repo. Checkers and go stones sample Poly Haven CC0 plates (oak_veneer_01, white_plaster_02, seaside_rock), which carry no obligation.",
+      "recordedAt": "2026-10-01T22:14:44.918Z",
+      "source": {
+        "type": "preset",
+        "presetKind": "texture",
+        "presetId": "builtin-tex:model/chip-100/diffuse"
+      },
+      "locked": true
+    },
+    {
+      "id": "link-a7a7af0e-2c2f18a2",
+      "paths": [
+        "models/chip-500.glb",
+        "models/chip-500.meta.json"
+      ],
+      "origin": "own-work",
+      "title": "DiceyTable procedural standard objects",
+      "creator": "DiceyTable",
+      "notes": "Geometry and textures generated in-repo. Checkers and go stones sample Poly Haven CC0 plates (oak_veneer_01, white_plaster_02, seaside_rock), which carry no obligation.",
+      "recordedAt": "2026-10-01T22:14:48.234Z",
+      "source": {
+        "type": "preset",
+        "presetKind": "model",
+        "presetId": "chip-500"
+      },
+      "locked": true
+    },
+    {
+      "id": "link-59e4b3d9",
+      "paths": [
+        "links/materials/mat-55db87f3-4816-48e4-b706-a98e324362d9.link.json"
+      ],
+      "origin": "own-work",
+      "title": "DiceyTable procedural standard objects",
+      "creator": "DiceyTable",
+      "notes": "Geometry and textures generated in-repo. Checkers and go stones sample Poly Haven CC0 plates (oak_veneer_01, white_plaster_02, seaside_rock), which carry no obligation.",
+      "recordedAt": "2026-10-01T22:14:48.234Z",
+      "source": {
+        "type": "preset",
+        "presetKind": "material",
+        "presetId": "builtin:model/chip-500/chip-500"
+      },
+      "locked": true
+    },
+    {
+      "id": "link-83baa2d5-195ee0d9",
+      "paths": [
+        "textures/chip-500-basecolor-dfb21af9.png"
+      ],
+      "origin": "own-work",
+      "title": "DiceyTable procedural standard objects",
+      "creator": "DiceyTable",
+      "notes": "Geometry and textures generated in-repo. Checkers and go stones sample Poly Haven CC0 plates (oak_veneer_01, white_plaster_02, seaside_rock), which carry no obligation.",
+      "recordedAt": "2026-10-01T22:14:48.234Z",
+      "source": {
+        "type": "preset",
+        "presetKind": "texture",
+        "presetId": "builtin-tex:model/chip-500/diffuse"
+      },
+      "locked": true
+    },
+    {
+      "id": "link-afad62c1-e289758e",
+      "paths": [
+        "textures/chip-1000-mr-6025134e.png"
+      ],
+      "origin": "own-work",
+      "title": "DiceyTable procedural standard objects",
+      "creator": "DiceyTable",
+      "notes": "Geometry and textures generated in-repo. Checkers and go stones sample Poly Haven CC0 plates (oak_veneer_01, white_plaster_02, seaside_rock), which carry no obligation.",
+      "recordedAt": "2026-10-01T22:14:48.234Z",
+      "source": {
+        "type": "preset",
+        "presetKind": "texture",
+        "presetId": "builtin-tex:model/chips/roughness-chip-1000"
+      },
+      "locked": true
+    },
+    {
+      "id": "link-d54c9e16",
+      "paths": [
+        "models/chip-1000.glb",
+        "models/chip-1000.meta.json"
+      ],
+      "origin": "own-work",
+      "title": "DiceyTable procedural standard objects",
+      "creator": "DiceyTable",
+      "notes": "Geometry and textures generated in-repo. Checkers and go stones sample Poly Haven CC0 plates (oak_veneer_01, white_plaster_02, seaside_rock), which carry no obligation.",
+      "recordedAt": "2026-10-01T22:14:52.334Z",
+      "source": {
+        "type": "preset",
+        "presetKind": "model",
+        "presetId": "chip-1000"
+      },
+      "locked": true
+    },
+    {
+      "id": "link-8edc67e0",
+      "paths": [
+        "links/materials/mat-1a21b10d-f892-407b-a388-e6c848282f73.link.json"
+      ],
+      "origin": "own-work",
+      "title": "DiceyTable procedural standard objects",
+      "creator": "DiceyTable",
+      "notes": "Geometry and textures generated in-repo. Checkers and go stones sample Poly Haven CC0 plates (oak_veneer_01, white_plaster_02, seaside_rock), which carry no obligation.",
+      "recordedAt": "2026-10-01T22:14:52.334Z",
+      "source": {
+        "type": "preset",
+        "presetKind": "material",
+        "presetId": "builtin:model/chip-1000/chip-1000"
+      },
+      "locked": true
+    },
+    {
+      "id": "link-2a55a1e6",
+      "paths": [
+        "textures/chip-1000-basecolor-e031d902.png"
+      ],
+      "origin": "own-work",
+      "title": "DiceyTable procedural standard objects",
+      "creator": "DiceyTable",
+      "notes": "Geometry and textures generated in-repo. Checkers and go stones sample Poly Haven CC0 plates (oak_veneer_01, white_plaster_02, seaside_rock), which carry no obligation.",
+      "recordedAt": "2026-10-01T22:14:52.334Z",
+      "source": {
+        "type": "preset",
+        "presetKind": "texture",
+        "presetId": "builtin-tex:model/chip-1000/diffuse"
+      },
+      "locked": true
     }
   ],
   "slug": "texas-hold-em",
@@ -271,5 +531,6 @@
   "players": {
     "min": 1,
     "max": 10
-  }
+  },
+  "diceEnabled": false
 }

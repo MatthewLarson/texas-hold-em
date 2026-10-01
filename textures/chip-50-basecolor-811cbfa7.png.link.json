@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "source": {
+    "presetId": "builtin-tex:model/chip-50/diffuse",
+    "presetKind": "texture",
+    "type": "preset"
+  },
+  "sourceHash": "44ec79a86199ed0c02ae3a21e80f416512b398be702fb0428533f0a0738cebe0",
+  "linkedAt": "2026-10-01T22:14:42.113Z",
+  "syncedAt": "2026-10-01T22:14:42.113Z",
+  "bytes": [
+    {
+      "path": "textures/chip-50-basecolor-811cbfa7.png",
+      "sha256": "811cbfa7d6ead28818cede863becec6917f2614cb147266e743ebf8742924428",
+      "sourceDigest": "811cbfa7d6ead28818cede863becec6917f2614cb147266e743ebf8742924428",
+      "sourceRef": "/assets/standard-objects/chips/chip-50/chip-50-basecolor-811cbfa7.png"
+    }
+  ],
+  "base": {
+    "addressU": "repeat",
+    "addressV": "repeat",
+    "anisotropy": 1,
+    "filtering": "linear",
+    "mipmaps": true,
+    "rgbm": false,
+    "srgb": true
+  },
+  "overrides": {}
+}

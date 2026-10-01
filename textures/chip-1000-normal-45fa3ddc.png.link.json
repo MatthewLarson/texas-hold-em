@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "source": {
+    "presetId": "builtin-tex:model/chips/normal",
+    "presetKind": "texture",
+    "type": "preset"
+  },
+  "sourceHash": "9ed4273e0a61ae120e30f15a5233e8f720ee98a98b90cc6a1ba8d4ad52bf4438",
+  "linkedAt": "2026-10-01T22:14:35.633Z",
+  "syncedAt": "2026-10-01T22:14:35.633Z",
+  "bytes": [
+    {
+      "path": "textures/chip-1000-normal-45fa3ddc.png",
+      "sha256": "45fa3ddc41a68cac41c6f32800b5deabd8531dded8ae4d30e967108a8cd6a6ae",
+      "sourceDigest": "45fa3ddc41a68cac41c6f32800b5deabd8531dded8ae4d30e967108a8cd6a6ae",
+      "sourceRef": "/assets/standard-objects/chips/_shared/chip-1000-normal-45fa3ddc.png"
+    }
+  ],
+  "base": {
+    "addressU": "repeat",
+    "addressV": "repeat",
+    "anisotropy": 1,
+    "filtering": "linear",
+    "mipmaps": true,
+    "rgbm": false,
+    "srgb": true
+  },
+  "overrides": {}
+}

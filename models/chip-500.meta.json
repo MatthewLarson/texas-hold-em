@@ -1,0 +1,29 @@
+{
+  "kind": "token",
+  "color": "#cbd5e1",
+  "spawnHeight": 0.45,
+  "metadata": {
+    "standardPresetFamily": "chips",
+    "standardPresetVariant": "chip-500",
+    "tokenShape": "cylinder",
+    "chipValue": 500
+  },
+  "materialSlots": {
+    "chip-500_mat": "mat-55db87f3-4816-48e4-b706-a98e324362d9"
+  },
+  "originAuthored": true,
+  "collisionShape": "cylinder",
+  "collider": {
+    "mode": "custom",
+    "entries": [
+      {
+        "id": "collider-1",
+        "name": "chip-500-collider",
+        "shape": "cylinder",
+        "radius": 0.064,
+        "height": 0.0108,
+        "axis": 1
+      }
+    ]
+  }
+}

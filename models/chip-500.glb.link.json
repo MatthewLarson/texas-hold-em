@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "source": {
+    "presetId": "chip-500",
+    "presetKind": "model",
+    "type": "preset"
+  },
+  "sourceHash": "9e409142dc2971cdbfab08231caa288d2357de28acfa1f8ed70619d5696e4418",
+  "linkedAt": "2026-10-01T22:14:48.234Z",
+  "syncedAt": "2026-10-01T22:14:48.234Z",
+  "bytes": [
+    {
+      "path": "models/chip-500.glb",
+      "sha256": "8f22e2e0434746374e203c984de9ee454e01d08eef784773262c56baa99f9bc6",
+      "sourceDigest": "8106524e68443c47b6169d14ed5f02693340a26d3624422321f99e5fef5067aa",
+      "sourceRef": "/assets/standard-objects/chips/chip-500/model.glb"
+    }
+  ],
+  "base": {
+    "collider": {
+      "entries": [
+        {
+          "axis": 1,
+          "height": 0.0108,
+          "id": "collider-1",
+          "name": "chip-500-collider",
+          "radius": 0.064,
+          "shape": "cylinder"
+        }
+      ],
+      "mode": "custom"
+    },
+    "collisionShape": "cylinder",
+    "color": "#cbd5e1",
+    "kind": "token",
+    "materialSlots": {
+      "chip-500_mat": "mat-55db87f3-4816-48e4-b706-a98e324362d9"
+    },
+    "metadata": {
+      "chipValue": 500,
+      "standardPresetFamily": "chips",
+      "standardPresetVariant": "chip-500",
+      "tokenShape": "cylinder"
+    },
+    "originAuthored": true,
+    "spawnHeight": 0.45
+  },
+  "overrides": {}
+}

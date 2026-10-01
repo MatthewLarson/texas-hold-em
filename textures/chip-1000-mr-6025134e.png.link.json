@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "source": {
+    "presetId": "builtin-tex:model/chips/roughness-chip-1000",
+    "presetKind": "texture",
+    "type": "preset"
+  },
+  "sourceHash": "4e9bd00daab9bea99331b94a04a6283de29e3541aa1c4496677b0f7946a4ae3e",
+  "linkedAt": "2026-10-01T22:14:48.234Z",
+  "syncedAt": "2026-10-01T22:14:48.234Z",
+  "bytes": [
+    {
+      "path": "textures/chip-1000-mr-6025134e.png",
+      "sha256": "6025134e34a768442688dc68b61c0a97d51fa4af25c4560e91a60797156e3e5e",
+      "sourceDigest": "6025134e34a768442688dc68b61c0a97d51fa4af25c4560e91a60797156e3e5e",
+      "sourceRef": "/assets/standard-objects/chips/_shared/chip-1000-mr-6025134e.png"
+    }
+  ],
+  "base": {
+    "addressU": "repeat",
+    "addressV": "repeat",
+    "anisotropy": 1,
+    "filtering": "linear",
+    "mipmaps": true,
+    "rgbm": false,
+    "srgb": true
+  },
+  "overrides": {}
+}
