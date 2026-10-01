@@ -9,6 +9,9 @@
     "script": "scripts/main.js"
   },
   "assets": [
+    "assets/decks/project-kaykit-standard-52.deck.json",
+    "assets/textures/decks/project-kaykit-standard-52/cardback-a.webp",
+    "assets/textures/decks/project-kaykit-standard-52/standard-52-face.webp",
     "media/cover-thumb.webp",
     "media/cover.webp",
     "media/screenshot-0.webp",
@@ -58,29 +61,6 @@
     "classic"
   ],
   "credits": [
-    {
-      "id": "link-65a9c0c0",
-      "paths": [
-        "assets/decks/project-kaykit-standard-52.deck.json",
-        "assets/textures/decks/project-kaykit-standard-52/standard-52-face.webp",
-        "assets/textures/decks/project-kaykit-standard-52/cardback-a.webp"
-      ],
-      "origin": "third-party",
-      "title": "KayKit — Board Game Bits 1.0 (EXTRA)",
-      "creator": "Kay Lousberg",
-      "creatorUrl": "https://www.kaylousberg.com",
-      "sourceUrl": "https://www.kaylousberg.com",
-      "licenseName": "CC0 1.0 (Public Domain)",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "notes": "CC0: attribution is not required; credited as a courtesy, as the author asks.",
-      "recordedAt": "2026-10-01T12:31:55.676Z",
-      "source": {
-        "type": "preset",
-        "presetKind": "deck",
-        "presetId": "kaykit-standard-52"
-      },
-      "locked": true
-    },
     {
       "id": "link-2215536c",
       "paths": [
@@ -449,6 +429,29 @@
         "type": "preset",
         "presetKind": "texture",
         "presetId": "builtin-tex:model/chip-1000/diffuse"
+      },
+      "locked": true
+    },
+    {
+      "id": "link-65a9c0c0-a9e89a60",
+      "paths": [
+        "assets/decks/project-kaykit-standard-52.deck.json",
+        "assets/textures/decks/project-kaykit-standard-52/standard-52-face.webp",
+        "assets/textures/decks/project-kaykit-standard-52/cardback-a.webp"
+      ],
+      "origin": "third-party",
+      "title": "KayKit — Board Game Bits 1.0 (EXTRA)",
+      "creator": "Kay Lousberg",
+      "creatorUrl": "https://www.kaylousberg.com",
+      "sourceUrl": "https://www.kaylousberg.com",
+      "licenseName": "CC0 1.0 (Public Domain)",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "notes": "CC0: attribution is not required; credited as a courtesy, as the author asks.",
+      "recordedAt": "2026-10-01T22:17:36.629Z",
+      "source": {
+        "type": "preset",
+        "presetKind": "deck",
+        "presetId": "kaykit-standard-52"
       },
       "locked": true
     }

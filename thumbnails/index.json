@@ -74,6 +74,24 @@
       "width": 256,
       "height": 256
     },
+    "assets/decks/project-kaykit-standard-52.deck.json": {
+      "inputHash": "b1a7642f0443ee6d",
+      "file": "thumbnails/assets/decks/project-kaykit-standard-52.deck.json.webp",
+      "width": 188,
+      "height": 256
+    },
+    "assets/textures/decks/project-kaykit-standard-52/cardback-a.webp": {
+      "inputHash": "98135d54345d4b1a",
+      "file": "thumbnails/assets/textures/decks/project-kaykit-standard-52/cardback-a.webp.webp",
+      "width": 188,
+      "height": 256
+    },
+    "assets/textures/decks/project-kaykit-standard-52/standard-52-face.webp": {
+      "inputHash": "daf79ab7162f7566",
+      "file": "thumbnails/assets/textures/decks/project-kaykit-standard-52/standard-52-face.webp.webp",
+      "width": 256,
+      "height": 233
+    },
     "media/cover-thumb.webp": {
       "inputHash": "9f17d6d01a549b3b",
       "file": "thumbnails/media/cover-thumb.webp.webp",

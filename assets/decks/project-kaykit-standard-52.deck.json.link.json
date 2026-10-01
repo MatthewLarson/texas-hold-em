@@ -1,0 +1,368 @@
+{
+  "version": 1,
+  "source": {
+    "presetId": "kaykit-standard-52",
+    "presetKind": "deck",
+    "type": "preset"
+  },
+  "sourceHash": "aebd25bd6c061a1157a986881d73c07bb7ceb43f964f4a4747a7d0e922df3816",
+  "linkedAt": "2026-10-01T22:17:36.629Z",
+  "syncedAt": "2026-10-01T22:17:36.629Z",
+  "bytes": [
+    {
+      "path": "assets/textures/decks/project-kaykit-standard-52/cardback-a.webp",
+      "sha256": "e6bd7cc78d06e7c2b66748e9f93ea6af33b35a8b018a5fc4b66b1be206672261",
+      "sourceDigest": "e6bd7cc78d06e7c2b66748e9f93ea6af33b35a8b018a5fc4b66b1be206672261",
+      "sourceRef": "/assets/decks/kaykit/cardback-a.webp"
+    },
+    {
+      "path": "assets/textures/decks/project-kaykit-standard-52/standard-52-face.webp",
+      "sha256": "46a17a849d1ea50d7cee370bedf32320327ad316891535268d73d6f91fa930a0",
+      "sourceDigest": "46a17a849d1ea50d7cee370bedf32320327ad316891535268d73d6f91fa930a0",
+      "sourceRef": "/assets/decks/kaykit/standard-52-face.webp"
+    }
+  ],
+  "base": {
+    "art": {
+      "backgroundColor": "#ffffff",
+      "bleedPx": 0,
+      "cornerRadius": 0.06,
+      "fit": "contain"
+    },
+    "back": {
+      "kind": "single",
+      "texturePath": "assets/textures/decks/project-kaykit-standard-52/cardback-a.webp"
+    },
+    "backIsHidden": true,
+    "cardFields": [],
+    "cards": [
+      {
+        "cardId": "clubs-ace",
+        "count": 1,
+        "faceIndex": 0,
+        "label": "A♣"
+      },
+      {
+        "cardId": "clubs-two",
+        "count": 1,
+        "faceIndex": 1,
+        "label": "2♣"
+      },
+      {
+        "cardId": "clubs-three",
+        "count": 1,
+        "faceIndex": 2,
+        "label": "3♣"
+      },
+      {
+        "cardId": "clubs-four",
+        "count": 1,
+        "faceIndex": 3,
+        "label": "4♣"
+      },
+      {
+        "cardId": "clubs-five",
+        "count": 1,
+        "faceIndex": 4,
+        "label": "5♣"
+      },
+      {
+        "cardId": "clubs-six",
+        "count": 1,
+        "faceIndex": 5,
+        "label": "6♣"
+      },
+      {
+        "cardId": "clubs-seven",
+        "count": 1,
+        "faceIndex": 6,
+        "label": "7♣"
+      },
+      {
+        "cardId": "clubs-eight",
+        "count": 1,
+        "faceIndex": 7,
+        "label": "8♣"
+      },
+      {
+        "cardId": "clubs-nine",
+        "count": 1,
+        "faceIndex": 8,
+        "label": "9♣"
+      },
+      {
+        "cardId": "clubs-ten",
+        "count": 1,
+        "faceIndex": 9,
+        "label": "10♣"
+      },
+      {
+        "cardId": "clubs-jack",
+        "count": 1,
+        "faceIndex": 10,
+        "label": "J♣"
+      },
+      {
+        "cardId": "clubs-queen",
+        "count": 1,
+        "faceIndex": 11,
+        "label": "Q♣"
+      },
+      {
+        "cardId": "clubs-king",
+        "count": 1,
+        "faceIndex": 12,
+        "label": "K♣"
+      },
+      {
+        "cardId": "diamonds-ace",
+        "count": 1,
+        "faceIndex": 13,
+        "label": "A♦"
+      },
+      {
+        "cardId": "diamonds-two",
+        "count": 1,
+        "faceIndex": 14,
+        "label": "2♦"
+      },
+      {
+        "cardId": "diamonds-three",
+        "count": 1,
+        "faceIndex": 15,
+        "label": "3♦"
+      },
+      {
+        "cardId": "diamonds-four",
+        "count": 1,
+        "faceIndex": 16,
+        "label": "4♦"
+      },
+      {
+        "cardId": "diamonds-five",
+        "count": 1,
+        "faceIndex": 17,
+        "label": "5♦"
+      },
+      {
+        "cardId": "diamonds-six",
+        "count": 1,
+        "faceIndex": 18,
+        "label": "6♦"
+      },
+      {
+        "cardId": "diamonds-seven",
+        "count": 1,
+        "faceIndex": 19,
+        "label": "7♦"
+      },
+      {
+        "cardId": "diamonds-eight",
+        "count": 1,
+        "faceIndex": 20,
+        "label": "8♦"
+      },
+      {
+        "cardId": "diamonds-nine",
+        "count": 1,
+        "faceIndex": 21,
+        "label": "9♦"
+      },
+      {
+        "cardId": "diamonds-ten",
+        "count": 1,
+        "faceIndex": 22,
+        "label": "10♦"
+      },
+      {
+        "cardId": "diamonds-jack",
+        "count": 1,
+        "faceIndex": 23,
+        "label": "J♦"
+      },
+      {
+        "cardId": "diamonds-queen",
+        "count": 1,
+        "faceIndex": 24,
+        "label": "Q♦"
+      },
+      {
+        "cardId": "diamonds-king",
+        "count": 1,
+        "faceIndex": 25,
+        "label": "K♦"
+      },
+      {
+        "cardId": "hearts-ace",
+        "count": 1,
+        "faceIndex": 26,
+        "label": "A♥"
+      },
+      {
+        "cardId": "hearts-two",
+        "count": 1,
+        "faceIndex": 27,
+        "label": "2♥"
+      },
+      {
+        "cardId": "hearts-three",
+        "count": 1,
+        "faceIndex": 28,
+        "label": "3♥"
+      },
+      {
+        "cardId": "hearts-four",
+        "count": 1,
+        "faceIndex": 29,
+        "label": "4♥"
+      },
+      {
+        "cardId": "hearts-five",
+        "count": 1,
+        "faceIndex": 30,
+        "label": "5♥"
+      },
+      {
+        "cardId": "hearts-six",
+        "count": 1,
+        "faceIndex": 31,
+        "label": "6♥"
+      },
+      {
+        "cardId": "hearts-seven",
+        "count": 1,
+        "faceIndex": 32,
+        "label": "7♥"
+      },
+      {
+        "cardId": "hearts-eight",
+        "count": 1,
+        "faceIndex": 33,
+        "label": "8♥"
+      },
+      {
+        "cardId": "hearts-nine",
+        "count": 1,
+        "faceIndex": 34,
+        "label": "9♥"
+      },
+      {
+        "cardId": "hearts-ten",
+        "count": 1,
+        "faceIndex": 35,
+        "label": "10♥"
+      },
+      {
+        "cardId": "hearts-jack",
+        "count": 1,
+        "faceIndex": 36,
+        "label": "J♥"
+      },
+      {
+        "cardId": "hearts-queen",
+        "count": 1,
+        "faceIndex": 37,
+        "label": "Q♥"
+      },
+      {
+        "cardId": "hearts-king",
+        "count": 1,
+        "faceIndex": 38,
+        "label": "K♥"
+      },
+      {
+        "cardId": "spades-ace",
+        "count": 1,
+        "faceIndex": 39,
+        "label": "A♠"
+      },
+      {
+        "cardId": "spades-two",
+        "count": 1,
+        "faceIndex": 40,
+        "label": "2♠"
+      },
+      {
+        "cardId": "spades-three",
+        "count": 1,
+        "faceIndex": 41,
+        "label": "3♠"
+      },
+      {
+        "cardId": "spades-four",
+        "count": 1,
+        "faceIndex": 42,
+        "label": "4♠"
+      },
+      {
+        "cardId": "spades-five",
+        "count": 1,
+        "faceIndex": 43,
+        "label": "5♠"
+      },
+      {
+        "cardId": "spades-six",
+        "count": 1,
+        "faceIndex": 44,
+        "label": "6♠"
+      },
+      {
+        "cardId": "spades-seven",
+        "count": 1,
+        "faceIndex": 45,
+        "label": "7♠"
+      },
+      {
+        "cardId": "spades-eight",
+        "count": 1,
+        "faceIndex": 46,
+        "label": "8♠"
+      },
+      {
+        "cardId": "spades-nine",
+        "count": 1,
+        "faceIndex": 47,
+        "label": "9♠"
+      },
+      {
+        "cardId": "spades-ten",
+        "count": 1,
+        "faceIndex": 48,
+        "label": "10♠"
+      },
+      {
+        "cardId": "spades-jack",
+        "count": 1,
+        "faceIndex": 49,
+        "label": "J♠"
+      },
+      {
+        "cardId": "spades-queen",
+        "count": 1,
+        "faceIndex": 50,
+        "label": "Q♠"
+      },
+      {
+        "cardId": "spades-king",
+        "count": 1,
+        "faceIndex": 51,
+        "label": "K♠"
+      }
+    ],
+    "data": {},
+    "deckFields": [],
+    "face": {
+      "cardCount": 54,
+      "cardHeightPx": 620,
+      "cardWidthPx": 455,
+      "columns": 9,
+      "rows": 6,
+      "texturePath": "assets/textures/decks/project-kaykit-standard-52/standard-52-face.webp"
+    },
+    "name": "KayKit Standard 52",
+    "schemaVersion": 1,
+    "sideways": false,
+    "uniqueBacks": false
+  },
+  "overrides": {}
+}
