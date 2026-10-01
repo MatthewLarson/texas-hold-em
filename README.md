@@ -6,7 +6,25 @@
 
 ---
 
-Texas Hold'em
+A full game of no-limit Texas Hold'em on a ten-seat casino poker table. The table is the dealer: it shuffles, deals, moves the dealer button, takes the blinds, runs each betting round, works out side pots, reads the hands and pays the winners.
+
+**How you play**
+
+- Everyone starts with $1,000 in real chips, stacked by value in their own area of the felt.
+- On your turn, buttons appear in front of you. Press + beside a chip stack to slide a chip into your bet pile and - to take one back, then BET or RAISE the pile. Or CHECK, CALL, FOLD or go ALL IN with one press.
+- Your two cards are private to you. The five shared cards are dealt face up into the marked spaces in the middle.
+- Chip totals, current bets, the pot and whose turn it is are written on the felt, readable from every seat.
+
+**What is included**
+
+- 1 to 10 players, with bots to fill any empty seats.
+- A practice mode against bots when you are at the table alone.
+- Blinds that start at 10/20 and rise every 8 hands.
+- Side pots, split pots and all-in showdowns handled for you.
+- A 90-second turn clock, rebuys when you run out of chips, and resume for a game in progress.
+- A dealer's chip tray, a deck and a discard pile laid out on the table.
+
+The full rules, with hand rankings, are under Rules.
 
 ---
 
