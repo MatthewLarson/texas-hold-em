@@ -38,9 +38,39 @@
       "width": 256,
       "height": 256
     },
+    "@prefabs/chip-10": {
+      "inputHash": "a362616832b621b8",
+      "file": "thumbnails/@prefabs/chip-10.webp",
+      "width": 256,
+      "height": 256
+    },
     "@prefabs/chip-10-2": {
       "inputHash": "a362616832b621b8",
       "file": "thumbnails/@prefabs/chip-10-2.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@prefabs/chip-100": {
+      "inputHash": "01ea9dc18f892dac",
+      "file": "thumbnails/@prefabs/chip-100.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@prefabs/chip-1000": {
+      "inputHash": "bae9af22263eb258",
+      "file": "thumbnails/@prefabs/chip-1000.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@prefabs/chip-50": {
+      "inputHash": "0d5f516c44c5d34f",
+      "file": "thumbnails/@prefabs/chip-50.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@prefabs/chip-500": {
+      "inputHash": "675c3612c8105cff",
+      "file": "thumbnails/@prefabs/chip-500.webp",
       "width": 256,
       "height": 256
     },
